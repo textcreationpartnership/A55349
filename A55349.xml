@@ -1,0 +1,1890 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Ponce de Leon: or, The rival slain A tragical dream in K. Harry's walk.</title>
+         </titleStmt>
+         <extent>Approx. 63KB of XML-encoded text transcribed from 20 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A55349</idno><idno type="EEBO-CITATION">99832824</idno>
+  <idno type="VID">37299</idno>
+  <idno type="EEBO-PROQUEST">2240953154</idno>
+  
+            <idno type="STC">Wing P2804</idno>
+            <idno type="STC">ESTC R221526</idno>
+            <idno type="PROQUEST">99832824</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99832824e"/>
+            <note>(EEBO-TCP ; phase 2, no. A55349)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 37299)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2150:36)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Ponce de Leon: or, The rival slain A tragical dream in K. Harry's walk.</title>
+               </titleStmt>
+               <extent>[4], 32 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for the author, and sold by J. Nutt, in Stationers-Hall-Yard,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1699.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>In verse.</note>
+                  <note>Print show-through.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Olivia Bottum </label>Sampled and proofread </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:37299:1"/>
+            <pb facs="tcp:37299:1"/>
+            <p>Ponce de Leon: OR, THE RIVAL SLAIN.</p>
+            <p>
+               <hi>A Tragical Dream</hi> IN K. Harry's Walk.</p>
+            <q>
+               <l>—Sunt geminae Somni Porte, quarum altera fertur</l>
+               <l>Cornea, qua veris faciiis datur exitus umbris:</l>
+               <l>Altera Candenti perfecta nitens Elephanto:</l>
+               <l>Sed falsa ad coelum mittunt insomnia manes.</l>
+               <bibl>
+                  <hi>Virg. 6. Aen.</hi>
+               </bibl>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed for the AUTHOR, and Sold by <hi>J. Nutt,</hi> in <hi>Stationers-Hall-Yard.</hi> 1699.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:37299:2"/>
+            <pb facs="tcp:37299:2"/>
+            <head>PONCE de LEON TO HIS ALMAHIDE.</head>
+            <opener>
+               <salute>MADAM!</salute>
+            </opener>
+            <p>AS the Effects of Love, have not only various insinuating Passages into the Soul, but also Enemies to the Injoy<g ref="char:EOLhyphen"/>ments thereof; so likewise, were it has rooted Deep, it not only works it's way thro' by Real Actions and Imaginations in the Day; but also by Diversity of Dreams and Visions in the Night.</p>
+            <p>Nor, <hi>Madam,</hi> can I improve my time (especially the Day) bet<g ref="char:EOLhyphen"/>ter, than by Indeavouring, Imagining, and using all possible In<g ref="char:EOLhyphen"/>dustry, to gain the Affections of my <hi>Almahide;</hi> whose real Vir<g ref="char:EOLhyphen"/>tues, were I to recite, would attract the whole Ʋniverse, to join with my too much Honoured Rival, to the making your passion<g ref="char:EOLhyphen"/>ate <hi>Ponce</hi> the more Ʋnfortunate.</p>
+            <p>And, as I improve the Day, so likewise do I not altogether set aside the Night; for scarcely one Nocturnal Hour revolves, with<g ref="char:EOLhyphen"/>out affording me some Thought, or Idea of my delicious <hi>Almahide</hi> therein.</p>
+            <p>'Twas therefore, (dear <hi>Madam!</hi>) purely for the private Injoy<g ref="char:EOLhyphen"/>ment of as large a Reflection on my hitherto wretched Destiny, as <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ossibly my Grief would allow, that I took this Evening Walk, <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he which I fell into so <hi>Tragical</hi> a <hi>Dream;</hi> which has been in <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e measure, really the Condition of your distressed <hi>Ponce.</hi>
+            </p>
+            <pb facs="tcp:37299:3"/>
+            <p>Not that my Inclination was ever Over-ambitious of shedding Blood, (tho' I grant the Constitution of Man's Body, does somewhat attribute to the Nature of his Dream) yet, let me tell you, <hi>Madam!</hi> that <hi>Ponce de Leon's</hi> Spirit is still so Generously Valiant, that he scorns to Dream in the Night, what he is afraid to Act in the Day, for the sake of his fair <hi>Almahide!</hi>
+            </p>
+            <p>You will find, <hi>Madam!</hi> no Obscenity in it; nor any thing, but what, your own Knowledge will tell you, <hi>Ponce</hi> has all along as Ar<g ref="char:EOLhyphen"/>d'rously explain'd in Reality: But you will Read, how deserved a Punishment has been Inflicted on a Treacherous, and Perjur'd Duke; and the Constancy of a Lady Recompensed with as great a Reward of Happiness. I could Wish indeed, that the Age we live in, was not Perplex'd with too many such Persons as the wretched <hi>Infantada;</hi> and then I'm sure, <hi>Ponce</hi> would fare far better with his <hi>Almahide.</hi>
+            </p>
+            <p>In fine, <hi>Madam!</hi> if there be any thing therein, worthy your Acceptance, I crave the Pardon to lay it at your Feet: For, (since you'ave had my Heart already) I must modestly Confess with <hi>Ovid;</hi>
+               <q>
+                  <l>
+                     <hi>Carmina qui facimus, mittamus Carmina tantum,</hi>
+                  </l>
+                  <l>
+                     <hi>Nam Chorus ante alios aptus Amore sumus.</hi>
+                  </l>
+                  <l>Nought can we Poets (save our Verses give)</l>
+                  <l>For Poets are th'most Amorous Lads that live.</l>
+               </q>
+            </p>
+            <p>Which, if they should merit one Smile, or Sympathizing Sigh for the distressed <hi>Ponce!</hi> he will not only esteem himself Blest for the Present, but in a fair way of being Happy Hereafter; and will <hi>Madam,</hi> Adore your Immatchless Virtues, longer than he is known to You by the Name of</p>
+            <closer>
+               <signed>Ponce de Leon</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="poem">
+            <pb n="1" facs="tcp:37299:3"/>
+            <head>Ponce de Leon: OR, THE RIVAL SLAIN.</head>
+            <lg>
+               <l>AFter Misfortunes in th'Intriegues of Love,</l>
+               <l>Sick witht's abortive Pangs, unto a Grove</l>
+               <l>(By some call'd <hi>Harry</hi>'s <hi>Walk</hi>) I did repair,</l>
+               <l>To mittigate my grief i'th' ecchoing Air,</l>
+               <l>Knitting my Brows, to'ards Heav'n I'd often <hi>frown</hi>
+               </l>
+               <l>Where, vainly seeking Help, I sate me down</l>
+               <l>Under the Feathers of a spacious Tree,</l>
+               <l>Sharply reflecting on my Destiny:</l>
+               <l>But, thro' the various Ideas of the bright</l>
+               <l>
+                  <hi>Alm'hide,</hi> my giddy Eyes, soon lost their Sight;</l>
+               <l>Fast Lock'd, Lo, thus I Dreamt! That I was there</l>
+               <l>
+                  <hi>Ponce de Leon</hi> in a black Dispair;</l>
+               <l>Methoughts I 'rose, drawing my Sword, and knit</l>
+               <l>My am'rous Looks into a chol'rick Fit;</l>
+               <pb n="2" facs="tcp:37299:4"/>
+               <l>Venting my Passion thus:</l>
+               <l>— Y'immortal gods!</l>
+               <l>Why is't ye Rack me? Scourge me thus with Rods?</l>
+               <l>Burn me with Ardor? And, t'increase my pain,</l>
+               <l>Lash me in Melancholly Fits, and out again?</l>
+               <l>Have I a Heart of Flint? Or, can my Spirit,</l>
+               <l>So Nobly born, deservedly inherit</l>
+               <l>The wracking tortures of that <hi>Fiction LOVE?</hi>
+               </l>
+               <l>Fiction! <hi>(said I)</hi> Once more, ye gods above,</l>
+               <l>Does my dear Shepherdess, fair <hi>Almahide,</hi>
+               </l>
+               <l>Resemble nought but Fancy? Nay, beside,</l>
+               <l>Are the Injoyments of her chaste Imbraces,</l>
+               <l>Attended with reciprocal Caresses,</l>
+               <l>Nothing but barely Fancy? Is the whole</l>
+               <l>System of Virtues in her noble Soul,</l>
+               <l>Compacted up with Fancy? Ye Heav'ns, if she</l>
+               <l>Be nothing else but flatt'ring Phantasie,</l>
+               <l>Why must Illusions hurry Mortals here</l>
+               <l>Into Convulsive Throws of black Dispair,</l>
+               <l>To waste their Vitals; which should nourish'd be</l>
+               <l>With what is Real, not <hi>Love</hi>'s <hi>Phantasie? —</hi>
+               </l>
+               <l>Wretch! why do I repine, since now I own</l>
+               <l>That is a Fancy which I dote upon? —</l>
+            </lg>
+            <lg>
+               <l>Thus in my Dream sometime I Fum'd; and then</l>
+               <l>Stood still awhile, and thus began agen: —</l>
+            </lg>
+            <lg>
+               <l>What! Does the Duke of <hi>Infantada</hi> make</l>
+               <l>Me to believe, dear <hi>Almahide</hi> will take</l>
+               <l>His Love to Heart? No, no, fair <hi>Almahide</hi>
+               </l>
+               <l>Loves the young <hi>Count</hi> 'bove all the World beside:</l>
+               <l>Witness each shady Grove, and silent Walk,</l>
+               <l>How simpathizing she would Sigh and Talk!</l>
+               <l>Witness ye many Glances of Each Eye,</l>
+               <l>Ye Earth, ye Water, and y'Aethaerial Sky,</l>
+               <l>Whether it was not something more than Flattery!</l>
+            </lg>
+            <lg>
+               <pb n="3" facs="tcp:37299:4"/>
+               <l>— Here fetching Minute Sighs, I added still,</l>
+               <l>Who knows th' Ambitious bounds of <hi>Almahide's</hi> Will?</l>
+               <l>'May be she loves the Duke, because he lyes</l>
+               <l>Ready t'ascend the Regal Dignities!</l>
+               <l>Is he not in a Station, which may bring</l>
+               <l>The choicest Beauties to enjoy a King?</l>
+               <l>And why not <hi>Almahide,</hi> whose noble Soul</l>
+               <l>Speaks purely Majesty? Ah! wretched Fool,</l>
+               <l>How long will vain confused thoughts torment</l>
+               <l>Thy Soul's Serenity with Discontent?</l>
+               <l>What! does the Duke, my Father, think to see</l>
+               <l>The Offspring of his Loins lose Chivalry</l>
+               <l>In flatt'ring Love? What! does my Mother fear</l>
+               <l>
+                  <hi>Ponce de Leon</hi> will a Fool appear</l>
+               <l>On Honour's <hi>Stage?</hi> Ye Heav'ns, I'd rather far</l>
+               <l>Lose Crowns and Diadems, than Beauty's <hi>Star</hi>
+               </l>
+               <l>Fair <hi>Almahide!</hi> whose Sight's a Bow; the Quiver</l>
+               <l>Is full of Glances darting thro' my Liver!</l>
+            </lg>
+            <lg>
+               <l>—Here, sometime Pausing, presently I felt</l>
+               <l>(In a great Passion) for my Rapiers Hilt;</l>
+               <l>Which having found, 'gan thus; Ye <hi>Sisters</hi> Three</l>
+               <l>Who fondly think to Spin my Destiny</l>
+               <l>To a far longer Thred of Misery;</l>
+               <l>Here solemnly, 'fore Heav'n, I do Combine</l>
+               <l>With this bright Sword, to end this Life of mine.</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Alm'hide</hi> adieu! your Lover goes before</l>
+               <l>With hopes t'injoy thee on the <hi>Elizium Shore;</hi>
+               </l>
+               <l>Since here he can't obtain it, tho' he might</l>
+               <l>Challenge it Justly as a Sacred Right!</l>
+               <l>Down to those silent Shades his Soul shall fly</l>
+               <l>And wrap it self in still Eternity!</l>
+               <l>Where, lovely <hi>Shepherdess,</hi> [but Cruel Fair!]</l>
+               <l>He hyes in hopes to meet thee shortly there—</l>
+            </lg>
+            <lg>
+               <pb n="4" facs="tcp:37299:5"/>
+               <l>Which said, I stopt; and fixing fast my Eyes,</l>
+               <l>With a deep Imprecation, to'ards the Skies;</l>
+               <l>Ready to render up my Soul; withall</l>
+               <l>Just giving way upon my Sword to fall,</l>
+               <l>Methoughts, came in abruptly at each Ear</l>
+               <l>A Voice, thus loudly Ecchoing; <hi>Forbear!</hi>
+               </l>
+               <l>Amaz'd I look'd about, first here, then there;</l>
+               <l>Next, round the Grove, then up towards the Air:</l>
+               <l>Where nothing 'spying; nor could hear more Noise,</l>
+               <l>Thus, thus I quickly rais'd my stam'ring Voice—</l>
+            </lg>
+            <lg>
+               <l>Who is it Calls? Is it Fair <hi>Alm'hide's</hi> Will,</l>
+               <l>I should forbear? The Eccho was; <hi>No, Kill! —</hi>
+               </l>
+               <l>Then answer'd I, who art thou that does send</l>
+               <l>Such strict Commands to hasten quick my End?</l>
+               <l>Dost thou on Earth, or in the Heav'ns abide?</l>
+               <l>The Answer quickly came; <hi>'Tis Almahide!</hi>
+               </l>
+               <l>If thou be <hi>Almahide,</hi> (said I) how can</l>
+               <l>You Cruelly desire to see that Man</l>
+               <l>Destroy himself, whose Love out-lives the Day?</l>
+               <l>
+                  <hi>Better I Love the Duke 'f</hi> Infantada!</l>
+               <l>Was the next Answer; [easily you may guess</l>
+               <l>Those Words soon fill'd my Soul with Frantickness]</l>
+               <l>Whereat, in hast, I passionately reply'd;</l>
+               <l>Love him, imperious, haughty <hi>Almahide!</hi>
+               </l>
+               <l>If thou be <hi>Almahide,</hi> which answer'st me,</l>
+               <l>Love him thou canst not more than I Love thee!</l>
+               <l>But if you Love him, keep it from my Ears,</l>
+               <l>And not consume me with such pannick Fears:</l>
+               <l>Upbraid me to my Face! Ye gods, if he</l>
+               <l>Were here, his venomn'd Soul should quickly flee</l>
+               <l>Down a deep purple Gore! —</l>
+            </lg>
+            <lg>
+               <l>Ah, wretched Elf!</l>
+               <l>(Continued I) why Flatterest thus thy self?</l>
+               <l>How soon art thou deceiv'd, with th'ecchoing Air!</l>
+               <l>The Duke and she are free from Love's Dispair?</l>
+               <pb n="5" facs="tcp:37299:5"/>
+               <l>He now injoys her Presence, and she quite</l>
+               <l>Has banish'd th' Idea of young <hi>Ponce</hi>'s Sight —</l>
+               <l>From her fair Eyes! —</l>
+            </lg>
+            <lg>
+               <l>— Ye heav'ns! that ever I</l>
+               <l>Should have from thence so much Perplexity!</l>
+               <l>Go wretched <hi>Ponce,</hi> go, [thou art betray'd!]</l>
+               <l>And hye away to the Elizium Shade? —</l>
+               <l>What dost thou here? —</l>
+            </lg>
+            <lg>
+               <l>— Then turning to my Sword,</l>
+               <l>I senseless stood, not uttering one Word</l>
+               <l>For sev'ral Minutes, till thro' Agony</l>
+               <l>I rais'd my Eyes up to'ards th' Aetherial Sky:</l>
+               <l>Say'ng thus; Y'immortal Powers above the Skies,</l>
+               <l>Regard my Plaints, Commiserate my Cries!</l>
+               <l>All I do beg, is, Let the Furies Prey</l>
+               <l>Upon my Rival Duke 'f <hi>Infantada.</hi>
+               </l>
+               <l>Nor let his Hopes, nor am'rous Projects, ever</l>
+               <l>Arrive unto the Bud, before they Wither;</l>
+               <l>And may the beauteous <hi>Almahide</hi> as soon</l>
+               <l>Meet her <hi>December</hi> in the midst of <hi>June!</hi>
+               </l>
+               <l>Cruel she was to me! Ye gods, therefore</l>
+               <l>I fly to you, to see her Face no more!</l>
+            </lg>
+            <lg>
+               <l>— And as I ended thus; I gazed round</l>
+               <l>Tosee all clear, then struck into the Ground</l>
+               <l>Once more my Rapier's Hilt; when going to fall</l>
+               <l>Thereon, with these last Words; Adieu to all</l>
+               <l>The amorous Enjoyments, which I could</l>
+               <l>Once call my own, a Voice cry'd shrilly, <hi>Hold! —</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>At which, impatient, strait away I hy'd,</l>
+               <l>Thinking to see, or hear, my <hi>Almahide;</hi>
+               </l>
+               <l>Down to the further end of all the Grove,</l>
+               <l>My stagg'ring Feet, and gazing Eyes did Rove,</l>
+               <pb n="6" facs="tcp:37299:6"/>
+               <l>Calling out thus; <hi>My</hi> Alm'hide, <hi>I Obey,</hi>
+               </l>
+               <l>
+                  <hi>And hold my Hands; What hast thou more to say?</hi>
+               </l>
+               <l>
+                  <hi>Speak, fairest, speak? —</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>— And then I listen'd so</l>
+               <l>'s To Hear, if possible, 'twere She, or no; —</l>
+               <l>But nothing answer'd to my doleful Cry,</l>
+               <l>Only that eccho'd back more Misery;</l>
+               <l>Which made me thus Exclaim; Fye, <hi>Ponce,</hi> Fye!</l>
+               <l>Thou tim'rous Coward, what afraid to Dye?</l>
+               <l>Where is thy Valour now? What, does it hide</l>
+               <l>Under the Notions of fair <hi>Almahide!</hi>
+               </l>
+               <l>They're only airy Fictions which combine</l>
+               <l>With thee, to linger out this Life of thine:</l>
+               <l>Alas! She's far enough from thee; nor would</l>
+               <l>She, if within thine Eccho; bid thee <hi>hold;</hi>
+               </l>
+               <l>Away, then valiant <hi>Ponce,</hi> and besure</l>
+               <l>Thou try'st thy Valour in a Crimson Gore!</l>
+               <l>Whereat I stept to my first Station; and</l>
+               <l>Kneel'd softly down upon a Bank of Sand;</l>
+               <l>Lifting my Eyes and Hands to'ards Heav'n, I cry'd</l>
+               <l>Out thus: Great Jove! whose Pow'r doth firm abide!</l>
+               <l>Assist me with a resolute frame to try</l>
+               <l>Grim Death's Assault, and gain the Victory?</l>
+               <l>I here appeal to Thee, if ever in</l>
+               <l>The Centre of this Brest, was lodg'd that Sin</l>
+               <l>Call'd base Ingratitude, or Flattery?</l>
+               <l>If <hi>Almahide</hi> could in that Closet pry,</l>
+               <l>Then she might see Effects enough to prove</l>
+               <l>'Tis she alone I really do Love! —</l>
+            </lg>
+            <lg>
+               <l>— Thou thund'ring god! have I not undergone</l>
+               <l>The false Aspersions of a clam'rous Tongue,</l>
+               <l>T'repute me little? Have I not deny'd</l>
+               <l>Th'injoyments of a Court for <hi>Almahide?</hi>
+               </l>
+               <pb n="7" facs="tcp:37299:6"/>
+               <l>Have I not restless been both Day and Night</l>
+               <l>Without I had her Person in my Sight?</l>
+               <l>And was it not, ye Heav'ns! my Heart's Delight?</l>
+               <l>Has not my Soul been gall'd to see each Day,</l>
+               <l>
+                  <hi>Almahide</hi> Love the Duke 'f <hi>Infantada? —</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>— Then, with a melting Sigh, I felt within</l>
+               <l>My Bosome, for a Letter, put therein</l>
+               <l>Sometime before; which having Kist, and Scan'd</l>
+               <l>Each Line thereof, I hid it in the Sand;</l>
+               <l>And leaning o'er my Rapier, cry'd aloud;</l>
+               <l>Ye Heav'ns receive me, and revenge my Blood!</l>
+               <l>Whereat I fell; but 'forc't had pierc'd the Skin,</l>
+               <l>Two masked Ladies instantly stept in,</l>
+               <l>Seizing me fast by either Arm, and Cry'd,</l>
+               <l>Ponce! <hi>Is this your Love for</hi> Almahide?</l>
+               <l>
+                  <hi>What will you Kill yourself, because you see</hi>
+               </l>
+               <l>Almahide <hi>does not love Inconstancy?</hi>
+               </l>
+               <l>
+                  <hi>Surely you are Besotted! Else, by all</hi>
+               </l>
+               <l>
+                  <hi>The Pow'rs above, you'd ne'er attempt to fall</hi>
+               </l>
+               <l>
+                  <hi>By your own Hands!</hi> At which one took away</l>
+               <l>My Rapier, whilst the other thus did say:</l>
+            </lg>
+            <lg>
+               <l>Ponce!</l>
+               <l>
+                  <hi>How know you that fair</hi> Almahide <hi>gives way</hi>
+               </l>
+               <l>
+                  <hi>To Love your Rival Duke 'f</hi> Infantada?</l>
+               <l>
+                  <hi>Speak,</hi> Ponce, <hi>speak? and let not Jealousie</hi>
+               </l>
+               <l>
+                  <hi>Bring Arguments to prove Inconstancy.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>At which I stood amaz'd; but gazing on</l>
+               <l>Her well proportion'd Aspect, thus began;</l>
+               <l>Whoe'er you be, I know not, but this Speech</l>
+               <l>Speaks it to be above poor Mortals reach;</l>
+               <l>And if un-masked were that beauteous Face,</l>
+               <l>'Twould quickly prove you of Immortal Race.</l>
+            </lg>
+            <lg>
+               <pb n="8" facs="tcp:37299:7"/>
+               <l>To which, she said; <hi>What Argues this? I'll be</hi>
+               </l>
+               <l>
+                  <hi>What e'er you please, so you'll but Answer me:</hi>
+               </l>
+               <l>
+                  <hi>How say'st thou</hi> Ponce? <hi>Jealousie does hide</hi>
+               </l>
+               <l>
+                  <hi>Within thy Brest, concerning</hi> Almahide:</l>
+               <l>
+                  <hi>Come, speak the Naked Truth? Is it not so</hi>
+               </l>
+               <l>Ponce de Leon? <hi>Answer Yes, or No:</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>These very Words, methoughts, did Usher in</l>
+               <l>Some secret Thoughts, that <hi>Almahide</hi> was then</l>
+               <l>Discoursing with me; whereupon, I said,</l>
+               <l>(Bowing full Low) Divine, Angelick Maid,</l>
+               <l>Since by your Heav'n assisting bounteous Hands,</l>
+               <l>My wretched Life before it's Owner stands,</l>
+               <l>Surely it can't do less than stoop to her Commands!</l>
+               <l>What you call Jealousie, to me has been</l>
+               <l>A thing not merely Fancyed, but Seen:</l>
+               <l>Have I not seen my Rival Duke abide</l>
+               <l>Whole Hours with the Cruel <hi>Almahide?</hi>
+               </l>
+               <l>When wretched <hi>Ponce</hi> has been banish'd quite</l>
+               <l>With angry Frowns from being in her Sight?</l>
+               <l>What call you this? —</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>To which th' Ʋnknown reply'd;</hi>
+               </l>
+               <l>
+                  <hi>How do you know but Cruel</hi> Almahide,</l>
+               <l>
+                  <hi>As you do term her, did it for to try</hi>
+               </l>
+               <l>Ponce de Leon<hi>'s Love and Constancy?</hi>
+               </l>
+               <l>
+                  <hi>Are not all Mortal? Therefore can no Heart</hi>
+               </l>
+               <l>
+                  <hi>But yours, be wounded with blind</hi> Cupid<hi>'s Dart?</hi>
+               </l>
+               <l>
+                  <hi>You'ave Seen! But what avils it? Did you find</hi>
+               </l>
+               <l>
+                  <hi>That ever</hi> Almahide <hi>did prove more Kind</hi>
+               </l>
+               <l>
+                  <hi>To him, than You? Or, did you ever See</hi>
+               </l>
+               <l>
+                  <hi>Any thing more than bare Gentility,</hi>
+               </l>
+               <l>
+                  <hi>I'th' midst of all's Intriegues?</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>— No: (answer'd I)</l>
+               <l>Yet something more is in't than Jealousie;</l>
+               <pb n="9" facs="tcp:37299:7"/>
+               <l>For why? If <hi>Almahide</hi> lov'd <hi>Ponce,</hi> then</l>
+               <l>She'd Banish from her Sight all other Men.</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>That's a mere jealous Fancy:</hi> (strait said She)</l>
+               <l>
+                  <hi>What, wou'd you force her to a Nunnery!</hi>
+               </l>
+               <l>
+                  <hi>For my own Part, if I were</hi> Almahide,</l>
+               <l>
+                  <hi>I'd cease from Love, before I'd be so ty'd!</hi>
+               </l>
+               <l>
+                  <hi>No,</hi> Ponce, <hi>no; 'tis only your Surmise</hi>
+               </l>
+               <l>
+                  <hi>That he is pretious in Fair</hi> Alm'hide's <hi>Eyes:</hi>
+               </l>
+               <l>
+                  <hi>All you can say, will never make me deem,</hi>
+               </l>
+               <l>
+                  <hi>But</hi> Almahide <hi>for</hi> Ponce <hi>has esteem:</hi>
+               </l>
+               <l>
+                  <hi>Therefore be Valiant, and hence forward Live</hi>
+               </l>
+               <l>
+                  <hi>In hopes, that</hi> Almahide <hi>will never give</hi>
+               </l>
+               <l>
+                  <hi>That Heart unto another, which, as due,</hi>
+               </l>
+               <l>
+                  <hi>I am perswaded, is reserv'd for you!</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>O Heav'ns! (cry'd I) If what you say be so,</l>
+               <l>No less Affliction can I undergo!</l>
+               <l>But, fair Unknown, What Credit may I give</l>
+               <l>To this Discourse? Do you with <hi>Alm'hide</hi> Live?</l>
+               <l>—Then greedy for an Answer, strait she said,</l>
+               <l>
+                  <hi>I know her Well:</hi> (turning towards her Maid</l>
+               <l>Who held my Sword, Continuing thus) <hi>and have</hi>
+               </l>
+               <l>
+                  <hi>Not been so long aquainted with that Slave,</hi>
+               </l>
+               <l>
+                  <hi>But know her innocent Humour, how, and when</hi>
+               </l>
+               <l>
+                  <hi>She seems to Slight, and then to Love agen,</hi>
+               </l>
+               <l>
+                  <hi>Which Ebbs and flows from th' Ardor in her Brest,</hi>
+               </l>
+               <l>
+                  <hi>Due to your jealous Self? — Guess you the rest. —</hi>
+               </l>
+               <l>
+                  <hi>But</hi> Ponce, (added she) <hi>What if that fair</hi>
+               </l>
+               <l>
+                  <hi>Cruel Dissembler,</hi> (as you call her) <hi>were</hi>
+               </l>
+               <l>
+                  <hi>With such a Jealousie so led aside,</hi>
+               </l>
+               <l>
+                  <hi>As; Ponee</hi> does not Love fair <hi>Almahide!</hi>
+               </l>
+               <l>Not Love her (then said I) <hi>Nay, hold,</hi> said she:</l>
+               <l>Ye gods, (continued I) more Misery</l>
+               <l>Inflict upon my Soul, if what you say</l>
+               <l>Be true, than e'er I'ave wisht <hi>Infantada!</hi>
+               </l>
+               <pb n="10" facs="tcp:37299:8"/>
+               <l>What, not esteem fair <hi>Almahide,</hi> whose Love</l>
+               <l>Is to be priz'd more than an Orb above!</l>
+               <l>No, no, brave Gen'rous <hi>Ponce</hi>'s Heart ne'er bent</l>
+               <l>It's will to join with such a base Intent:</l>
+               <l>He scorns to act his Rival's part, by trying</l>
+               <l>T'entice so chaste a Soul with cursed Lying.</l>
+               <l>Whereat I storm'd, and Snuffing up the Wind,</l>
+               <l>Gave her to Understand my ard'rous Mind:</l>
+               <l>To which she answer'd thus; Ponce! <hi>You know</hi>
+               </l>
+               <l>
+                  <hi>'Tis Ʋsual with your Sex to argue so:</hi>
+               </l>
+               <l>
+                  <hi>Which makes this Proverb good;</hi> Virgins! beware;</l>
+               <l>For Flattery, by Nature, is Man's Snare.</l>
+            </lg>
+            <lg>
+               <l>Here stopping, with a gentle Sigh, I drew</l>
+               <l>Near to unmask her Beauty; but she flew</l>
+               <l>Instantly back some paces, s'if afraid</l>
+               <l>Of the Event; And thus she Storming said:</l>
+            </lg>
+            <lg>
+               <l>Ponce!</l>
+               <l>
+                  <hi>I do Conjure you by the Pow'rs above;</hi>
+               </l>
+               <l>
+                  <hi>And all the Protestations of that Love</hi>
+               </l>
+               <l>
+                  <hi>Made to the innocent Captive,</hi> Almahide,</l>
+               <l>
+                  <hi>Not to approach more nearer then you side</hi>
+               </l>
+               <l>
+                  <hi>O'th' Bank.</hi> (Pointing some paces off where I</l>
+               <l>Had just before prepar'd my self to Dye.)</l>
+               <l>Then turning to her Maid, she thus did say;</l>
+               <l>Clitie! <hi>'tis late: Come, let us hye away.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>At which, I cryed out, Cruel Unknown!</l>
+               <l>What, wilt thou leave poor <hi>Ponce</hi> here alone</l>
+               <l>In worse Dispair, without the knowledge who</l>
+               <l>It is he owes his wretched Life unto?</l>
+               <l>For Heaven's sake; (continu'd I) tell me</l>
+               <l>Whether 'tis <hi>Almahide</hi> has set me free</l>
+               <l>From desp'rate Acts?</l>
+               <l>To which, she quick reply'd;</l>
+            </lg>
+            <lg>
+               <pb n="11" facs="tcp:37299:8"/>
+               <l>Ponce! <hi>rest Satisfy'd, 'Tis</hi> Almahide</l>
+               <l>
+                  <hi>To whom three times you Owe your Life unto:</hi>
+               </l>
+               <l>
+                  <hi>Enough, 'tis</hi> Almahide <hi>who bids, Adieu!</hi>
+               </l>
+               <l>Whereat, Re-masking quick her beauteous Face,</l>
+               <l>
+                  <hi>Clitie</hi> and <hi>Almahide</hi> with-drew apace.</l>
+               <l>Leaving poor <hi>Ponce</hi> senseless, just like One</l>
+               <l>That metamorphos'd was into a Stone:</l>
+               <l>— Near half an Hour revolv'd, before that I</l>
+               <l>Recover'd Sense; when, in an Extasie</l>
+               <l>Of boundless Joy, my Ravish'd Heart soon broke</l>
+               <l>Out in a <hi>Rapture</hi> like a Thunder-stroke.</l>
+            </lg>
+            <div type="part">
+               <head>The RAPTURE.</head>
+               <lg>
+                  <l>
+                     <hi>OH! what am I</hi>
+                  </l>
+                  <l>
+                     <hi>Turn'd to some Deity?</hi>
+                  </l>
+                  <l>
+                     <hi>Or, has great Jove</hi>
+                  </l>
+                  <l>
+                     <hi>Sent from his Throne above</hi>
+                  </l>
+                  <l>
+                     <hi>A Sip of Nectar to refresh my Soul:</hi>
+                  </l>
+                  <l>
+                     <hi>What need I care?</hi>
+                  </l>
+                  <l>
+                     <hi>They're Fools who Love Dispair,</hi>
+                  </l>
+                  <l>
+                     <hi>I now am free</hi>
+                  </l>
+                  <l>
+                     <hi>From such damn'd Misery;</hi>
+                  </l>
+                  <l>
+                     <hi>Which always makes Sagacity a Fool.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>
+                     <hi>All, all my Pride</hi>
+                  </l>
+                  <l>
+                     <hi>Is in Fair</hi> Almahide!</l>
+                  <l>
+                     <hi>She bids me Live,</hi>
+                  </l>
+                  <l>
+                     <hi>In hopes for to receive</hi>
+                  </l>
+                  <l>
+                     <hi>One Day a Salve to heal my Wounds and Smart;</hi>
+                  </l>
+                  <l>
+                     <hi>That which I prize</hi>
+                  </l>
+                  <l>
+                     <hi>'Bove all beneath the Skies:</hi>
+                  </l>
+                  <l>
+                     <hi>For I'm assur'd,</hi>
+                  </l>
+                  <l>
+                     <hi>Whom she hath kill'd, she'ath cur'd,</hi>
+                  </l>
+                  <l>
+                     <hi>And on her Patient hath bestow'd her Heart!</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <pb n="12" facs="tcp:37299:9"/>
+                  <l>—Thus having vented out my Joy; away</l>
+                  <l>My thoughts were hurry'd on <hi>Infantada;</hi>
+                  </l>
+                  <l>Laughing, I said, Go Rival, and Decide</l>
+                  <l>Whether you'ave more respect from <hi>Almahide</hi>
+                  </l>
+                  <l>Than I. —</l>
+               </lg>
+               <lg>
+                  <l>—Then strait again my Head</l>
+                  <l>Was busied about what <hi>Alm'hide</hi> said:</l>
+                  <l>Scanning her Words, (cry'd I) <hi>And never Deem,</hi>
+                  </l>
+                  <l>
+                     <hi>But</hi> Almahide <hi>for</hi> Ponce <hi>has esteem!</hi>
+                  </l>
+                  <l>First, she does bid me banish all surmise</l>
+                  <l>That my base Rival's precious in her Eyes;</l>
+                  <l>Next Conjures me to Live; and then again,</l>
+                  <l>Tells me she holds my Rival in Disdain:</l>
+                  <l>And to conclude; she adds; <hi>Ponce!</hi> as due,</l>
+                  <l>My Heart and all reserved is for you:</l>
+               </lg>
+               <lg>
+                  <l>Ye Heav'ns, ye Orbs, ye Sun, ye Moon, ye Stars!</l>
+                  <l>Is not this better than to live in fears,</l>
+                  <l>That Heav'n knows who should Rob my Soul of this,</l>
+                  <l>Which is to me, a more Desirous Bliss</l>
+                  <l>Than Tongue can Wish for? —</l>
+               </lg>
+               <lg>
+                  <l>—Jove! (continu'd I)</l>
+                  <l>I'll offer up for this Felicity</l>
+                  <l>Thou hast Vouchsafed, Hecatombs of Praise,</l>
+                  <l>So long as here below I spend my Dayes.</l>
+               </lg>
+               <lg>
+                  <l>But, <hi>Ponce,</hi> (added I) since were you stand,</l>
+                  <l>Your Life was sav'd by <hi>Alm'hide's</hi> tender Hand,</l>
+                  <l>Canst thou do less, than Celebrate her Fame,</l>
+                  <l>With Poems on her Beauty, Parts, and Name;</l>
+                  <l>Whereat I took my Pencil, as I sate,</l>
+                  <l>And thus did Scribble in my Book of Slate:</l>
+               </lg>
+            </div>
+            <div type="part">
+               <pb n="13" facs="tcp:37299:9"/>
+               <head>On His ALMAHIDE.</head>
+               <lg>
+                  <l>WIth what compos'd Serenity of Mind,</l>
+                  <l>(And free from Noise) should I my self retire</l>
+                  <l>Into some lonely Place, where none can find</l>
+                  <l>Me out, Angelick Beauty to Admire;</l>
+                  <l>There please my self, with what my Eyes have seen;</l>
+                  <l>Virtue and Beauty, like a Murm'ring Stream,</l>
+                  <l>Has lull'd my Soul asleep in Love's soft Arms,</l>
+                  <l>And lockt it up from Perturbations free;</l>
+                  <l>For I could not resist Love's Magick Charms,</l>
+                  <l>So I Love Thee!</l>
+               </lg>
+               <lg>
+                  <l>When on your Heav'nly Beauty first I gaz'd,</l>
+                  <l>My Senses were insensibly betray'd;</l>
+                  <l>The more I lookt, the more I was amaz'd,</l>
+                  <l>Then to behold with my frail Eyes a Maid,</l>
+                  <l>A Petty-goddess of <hi>Diana</hi>'s Train;</l>
+                  <l>I mus'd a while, and then I lookt again;</l>
+                  <l>Thinking a Mist my Eyes had over-cast,</l>
+                  <l>And that it was <hi>Minerva</hi> I did see;</l>
+                  <l>But when it vanish'd like unto <gap reason="illegible" resp="#keyers" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> Blast,</l>
+                  <l>I saw 'twas Thee!</l>
+               </lg>
+               <lg>
+                  <l>I saw 'twas who? 'twas she, whose pleasant Look,</l>
+                  <l>Sometimes is like unto a Sea of Milk,</l>
+                  <l>(To lull asleep) and oft a Curled Brook;</l>
+                  <l>Her Eyes like Stars, her Lips more soft than Silk;</l>
+                  <l>Her Cheeks as Roses in a Lovely hue;</l>
+                  <l>Her Neck a stately Pyramid of Snow;</l>
+                  <l>Her Alabaster Brests with Coral Tips,</l>
+                  <l>Her tap'ring Wast descending down hard by</l>
+                  <l>The place of Bliss! —where both her twinny Hips</l>
+                  <l>Holds Symetry!</l>
+               </lg>
+               <lg>
+                  <pb n="14" facs="tcp:37299:10"/>
+                  <l>The rest b'ing hid, I cannot well Discover;</l>
+                  <l>But, sure, within that unwrought Mine doth lye</l>
+                  <l>An Oar more Rich, than that which ev'ry Lover</l>
+                  <l>(Well skill'd in Minerals) do find and Try:</l>
+                  <l>She's, Goddess-like, most Fair, Discreet, and Young,</l>
+                  <l>Endow'd with Wit, and an harmonious Tongue:</l>
+                  <l>Nature has made her Perfect; every Grace</l>
+                  <l>Thro' her Delicious Body, seems to meet</l>
+                  <l>
+                     <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>n ev'ry Limb, but Centers in her Face</l>
+                  <l>As Beauty's Seat;</l>
+               </lg>
+               <lg>
+                  <l>
+                     <hi>— Here I broke off, saying; since</hi> Almahide</l>
+                  <l>
+                     <hi>Has sav'd my Life, and giv'n her Heart beside,</hi>
+                  </l>
+                  <l>
+                     <hi>Freed me from horrid Fears, and Jealousie</hi>
+                  </l>
+                  <l>
+                     <hi>That</hi> Infantada <hi>would my Rival be;</hi>
+                  </l>
+                  <l>
+                     <hi>Once more I'll Recompence that stately Pride,</hi>
+                  </l>
+                  <l>
+                     <hi>With Love-Revenge on my</hi>
+                  </l>
+               </lg>
+            </div>
+            <div type="part">
+               <head>— Fair ALMAHIDE!</head>
+               <lg>
+                  <l>WHen with my greedy Eyes, I gaze and state</l>
+                  <l>On thy Delicious Curled Locks of Hair:</l>
+                  <l>When I (repell'd) Sedately take a View</l>
+                  <l>Of thy Love's-seat, divine Majestick Brow:</l>
+                  <l>When I from thence observe your rowling Eyes,</l>
+                  <l>More full of Flame, than Lightning in the Skies:</l>
+                  <l>When I behold your lovely Cheeks, and Nose,</l>
+                  <l>More fair than Tulip, Lilly, Pink, or Rose;</l>
+                  <l>Thy Lips Vermilion-red: thy Teeth, within</l>
+                  <l>Thy Oval Mouth, like to a Troop: thy Chin</l>
+                  <l>The last Ascent unto th'increasing Bliss,</l>
+                  <l>Begot (by sipping Souls) at ev'ry Kiss:</l>
+                  <l>Thy Neck, Snow-white, a Pillar seems to be:</l>
+                  <l>Thy lovely Sholders grac'd with Ivory:</l>
+                  <l>Thy two chaste Icey Fires, those downey Brests,</l>
+                  <l>Where Love oft Nibling, falls asleep, and rests:</l>
+                  <pb n="15" facs="tcp:37299:10"/>
+                  <l>Thy Arms, thy Hands, thy Waste, thy Hips most neat:</l>
+                  <l>Thy Bliss! — thy Thighs, thy Legs, thy nimble Feet!</l>
+                  <l>I say, when in this Paradice I gaze,</l>
+                  <l>Your Locks intangle me within a Maze;</l>
+                  <l>When striving to resist, your Brows do frown,</l>
+                  <l>Whilst your bright Eyes do gently knock me down;</l>
+                  <l>At which, Compassion in your Cheeks, discovers,</l>
+                  <l>Your Lips sweet Cordials are for fainting Lovers;</l>
+                  <l>Then, gath'ring strength, about your Neck I'll fall,</l>
+                  <l>And pull thee down t'revenge my self for all:</l>
+                  <l>But if your Iv'ry Sholders won't comply,</l>
+                  <l>I'll sink for shame into the Flames hard by;</l>
+                  <l>Where, Dying, I will Live, till thence displac't,</l>
+                  <l>I must remove to 'twine thy slender Waste;</l>
+                  <l>But if no Durance there, I will retreat</l>
+                  <l>To try each beauteous Part from Head to Feet;</l>
+                  <l>No Eddy, Current, Channel, I will miss,</l>
+                  <l>Until I Anchor in thy Port of Bliss!</l>
+               </lg>
+               <lg>
+                  <l>—Just as I'ad done, my Soul was strucken mute</l>
+                  <l>With th'unexpected playing on a Flute;</l>
+                  <l>Whereat, I stoo'd stock still, and gazing round,</l>
+                  <l>Listned withal, to hear from whence the sound</l>
+                  <l>Deriv'd; when instantly on t'other side</l>
+                  <l>The Bank, (within a Thicket, which could hide</l>
+                  <l>Some Numbers there) I saw my Rival Duke</l>
+                  <l>Sit Melancholly playing on his Flute:</l>
+                  <l>Desirous to know th'Intriegue, I lay</l>
+                  <l>Perdue i'th' Hedge, to hear what he would say,</l>
+                  <l>When ceasing playing on his Flute, he cry'd,</l>
+                  <l>Heavens! I sha'nt injoy fair <hi>Almahide!</hi>
+                  </l>
+                  <l>
+                     <hi>Ponce de Leon,</hi> to Increase my smart,</l>
+                  <l>Has got Possession in her tender Heart!—</l>
+                  <l>—And then he fetcht a Sigh; and thus did say,</l>
+                  <l>O wretched, wretched Duke 'f <hi>Infantada!</hi>
+                  </l>
+                  <pb n="16" facs="tcp:37299:11"/>
+                  <l>Suppose you were t'injoy her, could you find</l>
+                  <l>Your Conscience sear'd so much, as not to mind</l>
+                  <l>The solemn Protestations that you'ave made</l>
+                  <l>Unto that innocent Countess, by you led,</l>
+                  <l>With Hellish flatt'ring Falsities, aside,</l>
+                  <l>Before you ever saw fair <hi>Almahide?</hi>
+                  </l>
+                  <l>Ah! wretched, miserable Duke, (cry'd he)</l>
+                  <l>More just a Punishment from th' Deity,</l>
+                  <l>Could never light upon a worser Man than thee!</l>
+                  <l>How oft have foreign Beauties made Resort</l>
+                  <l>To Masks and Balls, within this spacious Court?</l>
+                  <l>And ha'nt as oft my Treach'ry plaid it's part,</l>
+                  <l>By striving to allure each innocent Heart,</l>
+                  <l>With the like Imprecations made to One,</l>
+                  <l>As to the Second, till the <hi>Third</hi> came on?</l>
+                  <l>Ye Heav'ns! how many Beauties, (added he)</l>
+                  <l>Have I deceived with damn'd Flattery?</l>
+                  <l>When the worst She, that living is this Day,</l>
+                  <l>Deserves a better than <hi>Infantada!</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>Here pausing, he lay still some time, whilst I</l>
+                  <l>Observ'd with Pleasure all his Misery: —</l>
+                  <l>And then arising, with a mournful Tone,</l>
+                  <l>And languid Looks, he Sung the following</l>
+               </lg>
+            </div>
+            <div type="part">
+               <head>SONG.</head>
+               <lg>
+                  <l>
+                     <hi>THat which most call brisk and Jolly,</hi>
+                  </l>
+                  <l>
+                     <hi>Makes my Spirits Melancholly:</hi>
+                  </l>
+                  <l>
+                     <hi>That which some call black Dispair,</hi>
+                  </l>
+                  <l>
+                     <hi>Is to me a Heaven Fair;</hi>
+                  </l>
+                  <l>
+                     <hi>And in short there's nothing can</hi>
+                  </l>
+                  <l>
+                     <hi>Make me like to other Men;</hi>
+                  </l>
+                  <l>
+                     <hi>For I find that I shall have,</hi>
+                  </l>
+                  <l>
+                     <hi>Instead of Heav'n, a Hell to be my Grave!</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <pb n="17" facs="tcp:37299:11"/>
+                  <l>—Too light a Punishment, (said I within</l>
+                  <l>My silent Brest) for such a Crimson Sin</l>
+                  <l>As you are guilty of:— Whilst perjur'd he,</l>
+                  <l>Dispairing, curst himself, and's Pedigree:</l>
+                  <l>But then, again recov'ring somewhat better</l>
+                  <l>His Sense, he pulled out this following Letter.</l>
+               </lg>
+               <floatingText type="letter" xml:lang="eng">
+                  <body>
+                     <head>To the Duke of <hi>Infantada!</hi>
+                     </head>
+                     <opener>
+                        <salute>SEIGNEUR!</salute>
+                     </opener>
+                     <p>FOR the gods sake, regard the many irreiterated Promises and Oathes made to your passionate <hi>Amoretta,</hi> when she frankly resign'd up all the strong Holds of Love to your endeared Embraces, which ought to have been kept most Sacred and Inviolable: There<g ref="char:EOLhyphen"/>fore expose not your Person to so dangerous a War, when you may feast your self peaceably in her Arms: For the time draws near, wherein Nature will mischievously manifest to the view of all, the events of our Amorous Passions, without you take speedy care to Mar<g ref="char:EOLhyphen"/>ry your Distressed Countess</p>
+                     <closer>
+                        <signed>AMORETTA.</signed>
+                     </closer>
+                  </body>
+               </floatingText>
+               <lg>
+                  <l>And this so passionately he Read aloud,</l>
+                  <l>That ev'ry Word thereof I understood;</l>
+                  <l>And when he'ad done, his poys'nous Soul gave way</l>
+                  <l>To moderate his Grief, and thus did say;</l>
+                  <l>'Tis true, fair <hi>Amoretta,</hi> Heav'n does know,</l>
+                  <l>I once to you an ar'drous Love did show;</l>
+                  <l>But nothing of Reality I meant,</l>
+                  <l>Concerning Marriage, 'xcept a base intent</l>
+                  <l>To violate your Chastity, therefore</l>
+                  <l>I cannot Love the <hi>Amoretta</hi> more:</l>
+                  <l>What would you have me say? I'd rather dwell</l>
+                  <l>Hereafter in the hottest Flames of Hell,</l>
+                  <l>Than keep those Vows so often to you made,</l>
+                  <l>After I had your Innocence betray'd!</l>
+                  <l>My Fancy's fled from thee, and does abide</l>
+                  <l>(Perhaps much like the Wind) on <hi>Almahide!</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <pb n="18" facs="tcp:37299:12"/>
+                  <l>Here he did stamp upon the Ground, then Swore</l>
+                  <l>Love was Damnation, and his Hair he tore;</l>
+                  <l>Till with the Passion, weary of his Life,</l>
+                  <l>He calmly breathed forth this Love-sick</l>
+               </lg>
+            </div>
+            <div type="part">
+               <head>SIGH.</head>
+               <lg>
+                  <l>
+                     <hi>AH! wretched, rigid Fate,</hi>
+                  </l>
+                  <l>
+                     <hi>I see it is too Late:</hi>
+                  </l>
+                  <l>
+                     <hi>Repentance now won't do;</hi>
+                  </l>
+                  <l>
+                     <hi>For Cursed Fortune, you</hi>
+                  </l>
+                  <l>
+                     <hi>Have all along</hi>
+                  </l>
+                  <l>
+                     <hi>Sung to my Soul that Song</hi>
+                  </l>
+                  <l>
+                     <hi>Call'd Love the Fair,</hi>
+                  </l>
+                  <l>
+                     <hi>And now I plainly see</hi>
+                  </l>
+                  <l>
+                     <hi>It brings on Misery</hi>
+                  </l>
+                  <l>
+                     <hi>Instead of Bliss; and 'stead of Hope, Dispair!</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>—No sooner had he ended this; but I</l>
+                  <l>Perceiv'd him start at somewhat drawing nigh;</l>
+                  <l>Whereat I rose a little, and saw clear</l>
+                  <l>A Lady much Dejected 'proaching near,</l>
+                  <l>To whom the Duke made up, and thus did say;</l>
+                  <l>Madam! how came you to retire this way?</l>
+                  <l>Does Melancholly o'er your Vitals reign?</l>
+                  <l>If so, then tell thy Grief, and ease thy Pain</l>
+               </lg>
+               <lg>
+                  <l>
+                     <hi>Alas!</hi> (cry'd she) <hi>my drooping Spirits fail,</hi>
+                  </l>
+                  <l>
+                     <hi>My fault'ring Tongue can't tell that Love-sick Tale</hi>
+                  </l>
+                  <l>
+                     <hi>My pale-fac'd Aspect thus does Represent: —</hi>
+                  </l>
+                  <l>
+                     <hi>But, would you know my Grief,</hi> (and on she went)</l>
+                  <l>
+                     <hi>The same proceeds from Love! —</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>Madam! <hi>(continued he)</hi> for Heav'ns sake, pray,</l>
+                  <l>To whom does thus your Soul Love's homage pay?</l>
+                  <l>Or, what proud Mortal is it that can slight</l>
+                  <l>A Nymph so fair, whose Beauty shines more bright</l>
+                  <l>Than <hi>Sol</hi>'s Coelestial Rays? speak am'rous Soul; —</l>
+                  <l>(Whereat my Spirits, which before were cool,</l>
+                  <pb n="19" facs="tcp:37299:12"/>
+                  <l>Began to be inflam'd to such a Pitch,</l>
+                  <l>That I had like t'have stragled o'er the Ditch,</l>
+                  <l>Had it not been considerably too Wide: —)</l>
+                  <l>But presently the Lady thus Reply'd;</l>
+                  <l>
+                     <hi>Then give me leave to speak, my Heart does sue</hi>
+                  </l>
+                  <l>
+                     <hi>At</hi> Venus <hi>shrine, the Oracle is You;</hi>
+                  </l>
+                  <l>
+                     <hi>'Tis you, great Sir, th' Accomplish'd of your Sex,</hi>
+                  </l>
+                  <l>
+                     <hi>I do adore, beyond th' immortal gods!</hi>
+                  </l>
+                  <l>
+                     <hi>Whose charming Presence does imprint my Soul</hi>
+                  </l>
+                  <l>
+                     <hi>With Love-sick Passions —</hi> Bless me! <hi>(cry'd the Duke)</hi>
+                  </l>
+                  <l>Am I the Object? chear up thy drooping Soul? —</l>
+                  <l>
+                     <hi>How can I master Grief, if you will Rowl</hi>
+                  </l>
+                  <l>(Said she) <hi>your Person on a dung'rous War;</hi>
+                  </l>
+                  <l>
+                     <hi>What! to have all my Life, my Hopes, expos'd</hi>
+                  </l>
+                  <l>
+                     <hi>To Heav'ns wide Canopy? The gods forbid</hi>
+                  </l>
+                  <l>
+                     <hi>The Protasis of your intent should pass</hi>
+                  </l>
+                  <l>
+                     <hi>On farther to an Epitasis,</hi>
+                  </l>
+                  <l>
+                     <hi>Which, in the End, may prove a dire Catastrophe.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>Madam! <hi>(cry'd he)</hi> if any can deter</l>
+                  <l>My seeking Glory in the Camp of War,</l>
+                  <l>'Tis you —</l>
+                  <l>'Tis your bright Load-stone twinkling Stars,</l>
+                  <l>That shall with-draw me from their bloody Scars;</l>
+                  <l>You are my Bliss! — Come, let's then lay aside</l>
+                  <l>Such vain Disponding Thoughts, Love's breach is Wide;</l>
+                  <l>We'll enter then, and take a sweet Repast</l>
+                  <l>In Love's Arcadia, till one Hour doth waste! —</l>
+               </lg>
+               <lg>
+                  <l>
+                     <hi>Ah, Sir!</hi> (continued she) <hi>might I believe</hi>
+                  </l>
+                  <l>
+                     <hi>Such Heav'n distilling Words, they'd make me Live</hi>
+                  </l>
+                  <l>
+                     <hi>For ever Happy! —</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>Yes; <hi>(said he)</hi> you may;</l>
+                  <l>
+                     <hi>Then Thanks to Heav'n</hi> (cry'd she) <hi>I'ave seen this Day!</hi>
+                  </l>
+                  <l>
+                     <hi>Come dearest Jewel, which my Soul admires,</hi>
+                  </l>
+                  <l>
+                     <hi>Take now an ar'drous Kiss, mix'd with Love's Fires,</hi>
+                  </l>
+                  <l>I <hi>wholly do Devote my Life, my All</hi>
+                  </l>
+                  <l>
+                     <hi>Ʋnto your tender Care,</hi> I <hi>come,</hi> I <hi>fall: —</hi>
+                  </l>
+                  <pb n="20" facs="tcp:37299:13"/>
+                  <l>And so she fell about his Neck, and Cry'd,</l>
+                  <l>(Swooning in's Arms) let us not here abide:</l>
+               </lg>
+               <lg>
+                  <l>— Whereat the Duke and she soon vanish'd quite,</l>
+                  <l>Amongst the Thickets, from my greedy Sight.</l>
+                  <l>And then Considering no fear might 'bide</l>
+                  <l>Thence forward in my Brest for <hi>Almahide;</hi>
+                  </l>
+                  <l>I gave Great <hi>Jove,</hi> (who always heard my Call)</l>
+                  <l>Promise to Offer up the Tenths of all</l>
+                  <l>My Wealth, as Sacrifice, till <hi>Almahide</hi>
+                  </l>
+                  <l>Was made by Heaven, happy <hi>Ponce</hi>'s Bride.</l>
+                  <l>Which done, I took my Sword, and Gloves in Hand,</l>
+                  <l>To go and wait on <hi>Almahide</hi>'s Command,</l>
+                  <l>When instantly, before one step I'ad given,</l>
+                  <l>I stopt was by a Shrick that fled to'ards Heaven;</l>
+                  <l>Whereat I drew my Sword, hearing a Noise,</l>
+                  <l>Dismally sounding like a Lady's Voice,</l>
+                  <l>(Coming from whence I saw the Duke, and she</l>
+                  <l>Retire to injoy Felicity)</l>
+                  <l>And run like to a Fury, with my Sword</l>
+                  <l>Drawn naked in my Hand, for to afford</l>
+                  <l>Help to distressed; yet I could not fly</l>
+                  <l>So quick, but that this bloody Tragedy</l>
+                  <l>Was e'en expir'd; When I heard one say;</l>
+                  <l>
+                     <hi>Ah! cruel, Monster Duke 'f Infantada!</hi>
+                  </l>
+                  <l>
+                     <hi>I here appeal to all the gods above,</hi>
+                  </l>
+                  <l>
+                     <hi>If ever innocent</hi> Hortoria<hi>'s Love</hi>
+                  </l>
+                  <l>
+                     <hi>Was false to thee: Or, ever did suggest</hi>
+                  </l>
+                  <l>
+                     <hi>Such Damn'd designs cou'd Harbour in thy Brest!</hi>
+                  </l>
+                  <l>
+                     <hi>Thus to entice my Virtue all along,</hi>
+                  </l>
+                  <l>
+                     <hi>With inward Rancor, and a flart'ring Tongue!</hi>
+                  </l>
+                  <l>
+                     <hi>Injoy my Body! and without true Cause</hi>
+                  </l>
+                  <l>
+                     <hi>Of Jealousie, to violate Nature's Laws,</hi>
+                  </l>
+                  <l>
+                     <hi>And Rid me of my Life, by so unjust</hi>
+                  </l>
+                  <l>
+                     <hi>A means! —Ah! bloody Duke, expect thou must,</hi>
+                  </l>
+                  <l>
+                     <hi>And shall live in the hottest Flames of Hell,</hi>
+                  </l>
+                  <l>
+                     <hi>When that</hi> Hortoria <hi>with the gods will dwell.</hi>
+                  </l>
+                  <pb n="21" facs="tcp:37299:13"/>
+                  <l>And here methoughts her Soul sent forth a Shriek.</l>
+                  <l>Enough to make the flintiest Heart to break;</l>
+                  <l>And then I came in Sight, and saw the Duke</l>
+                  <l>Lifting his Arm to give the fatal stroke:</l>
+                  <l>Whereat I cry'd aloud, <hi>Thou hellish Fiend;</hi>
+                  </l>
+                  <l>
+                     <hi>Thou Cowardly trait'rous Dog, with-hold thy Hand!</hi>
+                  </l>
+                  <l>At which, he turn'd about with looks agast,</l>
+                  <l>(But not regarding) stab'd her thro' the Brest:</l>
+                  <l>No sooner had he giv'n the Blow, but I</l>
+                  <l>Came up, and saw the fair <hi>Hortoria</hi> lye</l>
+                  <l>Along the Grass, with both her Arms out-spread,</l>
+                  <l>And hair dishevell'd hanging 'bout her Head;</l>
+                  <l>Her Rosie Cheeks which often flam'd, were gone</l>
+                  <l>To hide themselves in Death's pale Horizon;</l>
+                  <l>The Tears which just before were shed, did lye</l>
+                  <l>Congeal'd like Pearls about each ghastly Eye;</l>
+                  <l>Her Brests lay Naked, and expos'd to view,</l>
+                  <l>Sev'n blooody Stabs, dy'd in a Crimson hue,</l>
+                  <l>Giv'n by the Duke. When as her glimm'ring sight,</l>
+                  <l>With a deep Groan, began to take it's flight;</l>
+                  <l>She 'spy'd me out, and mournfully did say,</l>
+                  <l>
+                     <hi>Revenge me on the Duke 'f</hi> Infantada!</l>
+                  <l>And so her Soul and Body, both did part,</l>
+                  <l>Enough to melt in Tears the hardest Heart.</l>
+               </lg>
+               <lg>
+                  <l>No sooner had sh'expired, but I burn'd</l>
+                  <l>With Choller 'gainst the Duke, and to him turn'd;</l>
+                  <l>Bespeaking thus; <hi>Thou monstrous Villain! how</hi>
+                  </l>
+                  <l>
+                     <hi>Could you unnaturally those Hands imbrew</hi>
+                  </l>
+                  <l>
+                     <hi>In the warm Blood of her, to whom you'ave Swore</hi>
+                  </l>
+                  <l>
+                     <hi>Often, you never did the gods adore</hi>
+                  </l>
+                  <l>
+                     <hi>More times than she, nor ne'er lov'd Lady more.</hi>
+                  </l>
+                  <l>Does this become a Duke? How can you 'spye</l>
+                  <l>The fair <hi>Hortoria,</hi> whom you'ave flatter'd, lye</l>
+                  <l>In Crimson Streams of Blood, and not Confess</l>
+                  <l>Damnation is your due, not Happiness?</l>
+                  <pb n="22" facs="tcp:37299:14"/>
+                  <l>
+                     <hi>Come perjur'd Wretch,</hi> (said I) <hi>prepare to go</hi>
+                  </l>
+                  <l>
+                     <hi>And fry with Devils in the Lake below.—</hi>
+                  </l>
+                  <l>
+                     <hi>Whereat, I drew, whilst he, (with both his Eyes</hi>
+                  </l>
+                  <l>
+                     <hi>Sprinkled with Blood from the late Sacrifice)</hi>
+                  </l>
+                  <l>
+                     <hi>View'd well my Person, boldly saying,</hi> Who</l>
+                  <l>Is he that I must give account unto,</l>
+                  <l>For what I'ave done? <hi>Villain!</hi> (continued I)</l>
+                  <l>
+                     <hi>I'm he that will revenge this Tragedy?</hi>
+                  </l>
+                  <l>
+                     <hi>And so we both encountred, and did fight</hi>
+                  </l>
+                  <l>
+                     <hi>Near half an hour, till, with all my might,</hi>
+                  </l>
+                  <l>
+                     <hi>(Managing dextrously my Passes well)</hi>
+                  </l>
+                  <l>
+                     <hi>I ran him thro' the Groin and down he fell;</hi>
+                  </l>
+                  <l>
+                     <hi>Whereat, to free him from a lingring smart,</hi>
+                  </l>
+                  <l>
+                     <hi>My Sword was just a going to pierce his Heart,</hi>
+                  </l>
+                  <l>
+                     <hi>When he cry'd out;</hi> Withold thy Hand, whilst I</l>
+                  <l>Confess with dying Words, this Cruelty!</l>
+                  <l>
+                     <hi>At which, I stopt, whilst he did faintly say,</hi>
+                  </l>
+                  <l>I am the dying Duke 'f <hi>Infantada:</hi>
+                  </l>
+                  <l>The Lady which you see, I have destroy'd,</l>
+                  <l>Was by my perjur'd, flatt'ring Tongue decoy'd:</l>
+                  <l>True, 'tis she lov'd me; and I thereupon</l>
+                  <l>Promis'd her Marriage sev'ral Months agon;</l>
+                  <l>But ne'er intended she should be my Bride,</l>
+                  <l>So soon as I had seen fair <hi>Almahide;</hi>
+                  </l>
+                  <l>Nor was she singular, for I'ave beguil'd</l>
+                  <l>Fair <hi>Amoretta,</hi> and she's now with Child:</l>
+                  <l>Therefore, as justly due, great <hi>Jove</hi> has sent</l>
+                  <l>From Heav'n too moderate a Punishment</l>
+                  <l>On such a damned Miscreant as I,</l>
+                  <l>For dealing all along so treach'rously!</l>
+                  <l>Sheathe up your Sword, <hi>(cry'd he)</hi> for lo! I feel</l>
+                  <l>Death's pangs apace within my Brest to Steal.</l>
+                  <l>Ad<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>eu, fair <hi>Almahide!</hi> let <hi>Ponce</hi> have,</l>
+                  <l>As hi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                     <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ust right, <hi>(said he)</hi> that lovely Slave;</l>
+                  <l>And may the innocent <hi>Amoretta</hi> find,</l>
+                  <l>'Tis better for her she is left behind;</l>
+                  <pb n="23" facs="tcp:37299:14"/>
+                  <l>I never lov'd her, but with flattery,</l>
+                  <l>To steal away the Pearl <hi>Virginity! —</hi>
+                  </l>
+                  <l>
+                     <hi>And then, as welt'ring in a Gore, he lay,</hi>
+                  </l>
+                  <l>
+                     <hi>His Cheeks became more cold than Ice, or s<gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>lay;</hi>
+                  </l>
+                  <l>
+                     <hi>Pale Horror siez'd his Lips instead o'th' Rose,</hi>
+                  </l>
+                  <l>
+                     <hi>And Death, with's Icey Fingers, pinch'd his Nose:</hi>
+                  </l>
+                  <l>
+                     <hi>His Tongue, that faulter'd from it's wonted Note,</hi>
+                  </l>
+                  <l>
+                     <hi>And every Breath did Rattle in his Throat;</hi>
+                  </l>
+                  <l>
+                     <hi>When even spent he fetcht a piteous Cry,</hi>
+                  </l>
+                  <l>
+                     <hi>And thus Reflected on his Destiny:</hi>
+                  </l>
+                  <l>Ah! cruel, barb'rous Duke 'f <hi>Infantada!</hi>
+                  </l>
+                  <l>Dost thou not see, the gods are just t'repay</l>
+                  <l>Vengeance to those, whose evil Actions merit</l>
+                  <l>No other than a place with Devils t'inherit?</l>
+                  <l>
+                     <hi>And then, with Tears in's Eyes, he Cry'd,</hi> I see</l>
+                  <l>Abused <hi>Time</hi> lists up his Scythe at me:</l>
+               </lg>
+               <lg>
+                  <l>Death swiftly, with his Sable Wings,</l>
+                  <l>Approaches near, t'unnerve the Springs</l>
+                  <l>Of my o'erwhelmed Life! His Glass</l>
+                  <l>Tells me my Minutes swift do pass:</l>
+                  <l>Nor would I value Death, but I</l>
+                  <l>A far more blacker Scene espy;</l>
+                  <l>Hell is presented 'fore my Eyes,</l>
+                  <l>With all th'infernal Deities.</l>
+               </lg>
+               <lg>
+                  <l>And here his Spirit Groan'd, and Limbs did shake</l>
+                  <l>So frightfully, as made my Heart to Ach.</l>
+                  <l>
+                     <hi>And then again, he very faintly cry'd,</hi>
+                  </l>
+                  <l>
+                     <hi>(Not knowing me)</hi> Adieu, fair <hi>Almahide:</hi>
+                  </l>
+                  <l>No doubt but that Felicity she'll have,</l>
+                  <l>When <hi>Ponce</hi> does injoy that harmless Slave.</l>
+               </lg>
+               <lg>
+                  <l>Farewell fond circling Arms,</l>
+                  <l>With all your leach'rous Charms;</l>
+                  <l>For whom base I</l>
+                  <l>A perjur'd Wretch became,</l>
+                  <l>Only one Minutes Flame</l>
+                  <l>Of Lust t'injoy;</l>
+               </lg>
+               <pb n="24" facs="tcp:37299:15"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="25" facs="tcp:37299:15"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <lg>
+                  <pb n="24" facs="tcp:37299:16"/>
+                  <l>For which I'ave damn'd my Soul. and have</l>
+                  <l>Untimely brought my Body to the Grave.</l>
+               </lg>
+               <lg>
+                  <l>And here his ghostly Eyes did rowl about,</l>
+                  <l>Foretelling that the Soul, was going out</l>
+                  <l>From a dark Prison, when he sadly cry'd,</l>
+                  <l>Oh! wretched Duke! so clos'd his Eyes and Dy'd.</l>
+               </lg>
+               <lg>
+                  <l>— Thus fled th'immatchless wicked Soul away</l>
+                  <l>Of the most cruel Duke 'f <hi>Infantada: —</hi>
+                  </l>
+                  <l>Tho' both being Dead, my Soul was gall'd to see</l>
+                  <l>
+                     <hi>Hortoria</hi> Butchered so Cruelly;</l>
+                  <l>And gazing on her Wounds which scarce were cold,</l>
+                  <l>I spy'd beneath one Pap a Heart of Gold;</l>
+                  <l>Bleeding as 'twere (b'ing wounded with a Dart,)</l>
+                  <l>Bearing this Motto; <hi>The Duke must Cure my Smart.</hi>
+                  </l>
+                  <l>Ah! innocent Lady, <hi>(added I)</hi> this Cure</l>
+                  <l>You have received from his Hands impure,</l>
+                  <l>You little thought of; but withal, 'thas sent</l>
+                  <l>Your Soul to Heav'n, and his to Punishment.</l>
+               </lg>
+               <lg>
+                  <l>Those words no sooner utter'd, but my Eyes</l>
+                  <l>Had for their Objects, hellish Deities,</l>
+                  <l>With flaming Torches, all attended by</l>
+                  <l>
+                     <hi>Cerb'rus</hi> to Howl at some solemnity;</l>
+                  <l>Each Devil had a Taper in his Fist,</l>
+                  <l>Ty'd fast to Snakes, which twined round his Wrist;</l>
+                  <l>In th' other Paw was held a whip of Wire</l>
+                  <l>Knotted with brimstone Streams, and frigid Fire.</l>
+                  <l>In th' middle crawl'd six Imps of Hell, whose Backs</l>
+                  <l>Expos'd to view a Thousand sorts of Racks,</l>
+                  <l>Besides a Red-hot Grid-Iron, and a Chain</l>
+                  <l>Link'd fast with Scorpions to increase the Pain;</l>
+                  <l>After them limp'd an ugly Massy Fiend</l>
+                  <l>Bearing a Trunk, which made his Sholders bend,</l>
+                  <l>From whence did usher out most piteous Grones,</l>
+                  <l>To which he join'd in Chorus hellish Tones:</l>
+                  <l>Upon the Trunk was Writ; <hi>Within's Confin'd</hi>
+                  </l>
+                  <l>
+                     <hi>Conscience let loose upon a desp'rate mind:</hi>
+                  </l>
+                  <pb n="25" facs="tcp:37299:16"/>
+                  <l>After him prancing came six Horses, who</l>
+                  <l>(With foaming Mouthes) a Sable Chariot drew,</l>
+                  <l>In it sat <hi>Pluto,</hi> King of Hell, who had</l>
+                  <l>A Crown of Ebony upon his Head;</l>
+                  <l>And, for a Scepter, in his Left-hand, he</l>
+                  <l>(But in the Right, a Rod) did hold a Key.</l>
+                  <l>Next the three Goddesses, the Furies came,</l>
+                  <l>Brandishing Torches; which were set on Flame</l>
+                  <l>By Justice; and design'd (most fit) at first,</l>
+                  <l>To Lash the Consciences of Souls who're Curst;</l>
+                  <l>And then a multitude of Devils run,</l>
+                  <l>With Brands of Fire so thick, s' obscur'd the Sun:</l>
+                  <l>Which made me strongly fancy, that the World,</l>
+                  <l>With all therein, was going to be hurl'd</l>
+                  <l>Down to the lowest Shades of Hell, to be</l>
+                  <l>Seal'd down with Devils to Eternity:</l>
+                  <l>At which, I thought 'twas time to go away;</l>
+                  <l>And just as I was moving, one cry'd, <hi>Stay?</hi>
+                  </l>
+                  <l>Turning my self about, to see who spoke,</l>
+                  <l>
+                     <hi>Pluto</hi> descended in a Cloud of Smoke,</l>
+                  <l>Bespeaking thus; (turning to me withall —</l>
+               </lg>
+            </div>
+            <div type="part">
+               <opener>
+                  <salute>SIR!</salute>
+               </opener>
+               <lg>
+                  <l>I O'er the lower Regions reign as King,</l>
+                  <l>And by a higher Commission, here do bring</l>
+                  <l>(For an Example) my infernal Crew,</l>
+                  <l>To take and Carbonade what is my Due;</l>
+                  <l>So soon as sinful Man falls down and dyes,</l>
+                  <l>So soon his wretched Soul with horror flyes,</l>
+                  <l>Before it's Judge, where Conscience strait obtains</l>
+                  <l>A Mittimus to bind the Soul in Chains,</l>
+                  <l>And haul it down before m'Imperial Seat,</l>
+                  <l>Justly, t'receive a Punishment so great</l>
+                  <l>As e'er it's Crimes were big: Behold, (<hi>said he,</hi>
+                  </l>
+                  <l>Pointing unto the Trunk, his Scepter'd Key)</l>
+                  <pb n="26" facs="tcp:37299:17"/>
+                  <l>Within that Trunk a naked Soul lyes, stript</l>
+                  <l>Of all Relief, and by it's Conscience Whipt.</l>
+                  <l>Hark! how it Groans under a Burden, which</l>
+                  <l>Compounded's up with Floods of boiling Pitch;</l>
+                  <l>Which brings so many perjur'd Oathes to sight,</l>
+                  <l>As none can tell the horror of it right:</l>
+                  <l>This is the Carcass of that Soul, which lyes</l>
+                  <l>Lock'd under damn'd dispairing Agonies;</l>
+                  <l>Of which Possession I am come to take,</l>
+                  <l>And carry Soul and Body to that Lake,</l>
+                  <l>Where it will see, no difference I can show</l>
+                  <l>'Twixt high-born Princes, and the Peasants low.</l>
+                  <l>Stand still: (and you shall see all ended soon)</l>
+                  <l>For 'tis not in my Pow'r to do you wrong;</l>
+                  <l>Virtue I never touch; for that I hate</l>
+                  <l>As bad as Poyson; 'Tis Vice, on which I bate,</l>
+                  <l>And feast my Paunch: And therefore, Sir, as due,</l>
+                  <l>Thanks for this Morsel I return to you.</l>
+               </lg>
+               <lg>
+                  <l>No sooner was this done, but quickly he</l>
+                  <l>Went to the Trunk, and putting in his Key,</l>
+                  <l>Unlock'd the same; whereat, a hellish shout</l>
+                  <l>Welcom'd the tortur'd Soul and Conscience out;</l>
+                  <l>Who fiercely flew to sieze upon their Prey,</l>
+                  <l>(The Carcass of my Rival Duke) who lay</l>
+                  <l>Besmear'd with Blood. No sooner had he took</l>
+                  <l>Possession, but the Body strait awoke,</l>
+                  <l>And trembling stood, gnashing it's Teeth thro' Fear,</l>
+                  <l>Whilst Devils with their Prongs the Flesh did Tare:</l>
+                  <l>A <hi>Vulture</hi> siez'd his Bowels; and his Tongue</l>
+                  <l>(Foaming beneath his Chin) some Inches hung:</l>
+                  <l>His Eyes to me seem'd Ovens; and his Throat</l>
+                  <l>
+                     <hi>Cerberus</hi> tore with a damn'd howling Note:</l>
+                  <l>And here, methoughts, Compassion siez'd my Soul,</l>
+                  <l>And mov'd me much his misery to Condole;</l>
+                  <pb n="27" facs="tcp:37299:17"/>
+                  <l>But all too late; for greedily he stood,</l>
+                  <l>Sucking, thro' Thirst, his very own Hearts-blood:</l>
+                  <l>Which made the Devil offer him a Cup</l>
+                  <l>Of boyling-brimstone, mixt with Pitch, to Sup;</l>
+                  <l>The which his Thirsty Tongue lapp'd up so fast,</l>
+                  <l>That he had like t'have drank the Cup for hast,</l>
+                  <l>Had it not been united to a Chain,</l>
+                  <l>By which the Devil pull'd it back again:</l>
+                  <l>This made me very curious to know</l>
+                  <l>What sort of Liquor 'twas he goggl'd so;</l>
+                  <l>And then I gave the Devil a Word and Wink,</l>
+                  <l>Who said, 'twas Call'd, <hi>Damnation Dyet-Drink.</hi>
+                  </l>
+                  <l>And then they dragg'd him to the Grid-Iron, where</l>
+                  <l>His Soul did belch forth nothing but Dispair.</l>
+                  <l>Heavens! what horror was his Conscience in?</l>
+                  <l>How did his quicken'd Memory begin</l>
+                  <l>To call to mind, the many Curst Intriegues,</l>
+                  <l>The Falshoods, Flatteries, and broken Leagues:</l>
+                  <l>The Oathes, the Vows, with which he did betray</l>
+                  <l>Fair <hi>Amoretta</hi> and <hi>Hortoria?</hi>
+                  </l>
+                  <l>Tongue cannot tell th'Extremity of Pain</l>
+                  <l>This Soul was in, when <hi>Pluto</hi> took a Chain,</l>
+                  <l>And sternly lock'd it to the Grid-Iron, when</l>
+                  <l>His Vassals took it on their Backs agen;</l>
+                  <l>Marching away, whilst the three Furies came</l>
+                  <l>Lashing the back of Conscience with a Flame:</l>
+                  <l>Next stifled Conscience pressing to obtain</l>
+                  <l>Some Respite, gall'd the Soul with horrid Pain:</l>
+                  <l>The Soul, that fell upon the Body, and</l>
+                  <l>Fretted it's Vitals with a racking Band</l>
+                  <l>Of Lusts and Pleasures, (called once, Delight)</l>
+                  <l>Which forc'd his gnashing poys'nous Teeth, to bite</l>
+                  <l>It's Ven'mous Tongue. And thus this hellish Crew,</l>
+                  <l>In damn'd Disorder, to the place with-drew,</l>
+                  <l>From whence I saw 'em come; where, at a stay,</l>
+                  <l>In Smoke these Devils vanish'd quite away.</l>
+                  <pb n="28" facs="tcp:37299:18"/>
+                  <l>Bless me! you cannot guess what great surprise</l>
+                  <l>My Soul was left in, when these Deities</l>
+                  <l>Sunk with my Rival Duke amidst their Paws,</l>
+                  <l>Beneath the Earth into Hell's gaping Jaws!</l>
+                  <l>Nor was my Senses to be govern'd by</l>
+                  <l>That Reason now, to which they us'd to lye</l>
+                  <l>Prostrate before: Had not a num'rous Train</l>
+                  <l>Of glorious Angels, clear'd the Air again:</l>
+                  <l>Calm'd all my Turb'lent Thoughts, and brought my sight</l>
+                  <l>To feast on Objects full of choice Delight.</l>
+               </lg>
+               <lg>
+                  <l>Just as you'ave seen, a weeping Lady lye</l>
+                  <l>Prostrate before her Lord, condemn'd to dye;</l>
+                  <l>When nothing else is lookt for, but to see</l>
+                  <l>The Execution done immediately;</l>
+                  <l>When at the very instant that the Blow</l>
+                  <l>Is to be keenly struck, there comes one, who</l>
+                  <l>Has Orders from the King to save his Life:</l>
+                  <l>Can you imagine how the ravish'd Wife,</l>
+                  <l>Transported is with Joy? Her Sorrows look</l>
+                  <l>No more within the Leaves of Death's pale Book,</l>
+                  <l>But all the Scene is past; when, thro' the Charms</l>
+                  <l>Of Joy Extatic, she Swoons within the Arms</l>
+                  <l>Of her dear Lord; who with a soft Imbrace,</l>
+                  <l>Kisses the Pearly drops from off her Face;</l>
+                  <l>Which chears her fainting Spirits, and inspires</l>
+                  <l>Into her glowing Brest, more ard'rous Fires.</l>
+               </lg>
+               <lg>
+                  <l>So Joy transported all my Senses, when</l>
+                  <l>The Hemisphere from Clouds was freed agen:</l>
+                  <l>Instead of seeing sulph'rous Devils roast</l>
+                  <l>A damned Soul, my Eyes beheld a Host</l>
+                  <l>Of flitting Spirits, coming from above,</l>
+                  <l>To carry fair <hi>Hortoria</hi> to <hi>Jove.</hi>
+                  </l>
+                  <l>First flew a Seraphim with Roses sweet,</l>
+                  <l>To strow upon <hi>Hortoria</hi>'s Head and Feet:</l>
+                  <pb n="29" facs="tcp:37299:18"/>
+                  <l>Next came two Cherubims, whose Faces shone</l>
+                  <l>So gloriously transparant like the Sun,</l>
+                  <l>Each of them bearing Flags of white to show</l>
+                  <l>'Twas Peace they brought unto the Corps below.</l>
+                  <l>Presently after them most gently flew</l>
+                  <l>A glorious Orb of Happiness, that shew,</l>
+                  <l>Ingrav'd upon the top, these Words in Gold;</l>
+                  <l>
+                     <hi>Permanent Happiness is never Sold,</hi>
+                  </l>
+                  <l>
+                     <hi>Nor Bought by Mortals; those who wou'd it have,</hi>
+                  </l>
+                  <l>
+                     <hi>Must first Repentance for their Actions crave!</hi>
+                  </l>
+                  <l>Then came a pretious Chariot, in the which</l>
+                  <l>Was sate a King, whose Garments seem'd more rich,</l>
+                  <l>Than ever from the Costly <hi>Indies</hi> came;</l>
+                  <l>With Pearls and Rubies stuck about the same,</l>
+                  <l>Most gorgeously. The Chariot was drawn</l>
+                  <l>By six fine Steeds, Trapp'd up in milk-white Lawn.</l>
+                  <l>Heavens! I fell amaz'd to see this sight!</l>
+                  <l>How gloriously each shone like Chrystal bright:</l>
+                  <l>Down from his Chariot, quick he did ascend,</l>
+                  <l>And took the speechless Lady, by the Hand;</l>
+                  <l>Saying <hi>Arise!</hi> at which sh'awoke, when he</l>
+                  <l>Most gently rais'd her up, and cry'd, Come, see</l>
+                  <l>The Recompence that is prepar'd for you?</l>
+                  <l>And so they to the Chariot both with-drew.</l>
+                  <l>Bless me! what Musick did these Spirits make?</l>
+                  <l>How did the Seraphims and Cherubs quake</l>
+                  <l>And Quiv'r in Chorus, when <hi>Hortoria</hi> fair</l>
+                  <l>Was in the Chariot cutting thro' the Air.</l>
+                  <l>The Banners were Displaid; the Orb that plac't</l>
+                  <l>It's self within the Center of her Brest,</l>
+                  <l>How did she shine in Beauty! Every part</l>
+                  <l>Throughout her Body, was refin'd 'bove Art,</l>
+                  <l>Lovely Meanders deckt her azure Veins,</l>
+                  <l>And Virtues hung about her Neck like Chains</l>
+                  <l>Of Gold. In fine <hi>Hortoria</hi> seem'd to be</l>
+                  <l>Of Heav'n's abode, a large Epitome.</l>
+                  <pb n="30" facs="tcp:37299:19"/>
+                  <l>And up the Chariot, with it's num'rous Train</l>
+                  <l>More swift than <hi>Time,</hi> to'ards Heaven soar'd again.</l>
+               </lg>
+               <lg>
+                  <l>All being o'er, and nothing to be seen</l>
+                  <l>But my transported self within the Green,</l>
+                  <l>Then my revolving Thoughts began to call</l>
+                  <l>Over again, (with more Sedateness) all</l>
+                  <l>The past Transactions, till methoughts, the Day</l>
+                  <l>Cry'd loudly in my Ears to hast away.</l>
+                  <l>Wherat I turned to the Path, and hy'd,</l>
+                  <l>With all Celerity to'ards <hi>Almahide:</hi>
+                  </l>
+                  <l>But scarce had I Three Furlongs went, before</l>
+                  <l>I spy'd a Lady with her Hair all tore</l>
+                  <l>About her naked Brests; her Hands, and Eyes</l>
+                  <l>Lift up, imploring of the Deities:</l>
+                  <l>
+                     <hi>Ye mighty Pow'rs! Ah! won't ye Slay, and Damn</hi>
+                  </l>
+                  <l>
+                     <hi>That base, perfidious, perjur'd Creature Man?</hi>
+                  </l>
+                  <l>
+                     <hi>Whose Oathes are only Rhetorick, t'entice</hi>
+                  </l>
+                  <l>
+                     <hi>Innocent Virgins to the Snares of Vice!</hi>
+                  </l>
+                  <l>
+                     <hi>Heav'ns Confound 'em all! —</hi> (cry'd she) And here</l>
+                  <l>Stopping, she turn'd about, and saw me near;</l>
+                  <l>When up she 'rose, and ran so fast, until</l>
+                  <l>Ev'n out of breath, upon a bank she fell;</l>
+                  <l>To whom I hasten'd up, Crying out, <hi>Why,</hi>
+                  </l>
+                  <l>
+                     <hi>Madam, do you Invoke the Deity</hi>
+                  </l>
+                  <l>
+                     <hi>To pour down Vengeance on us Mortals, when</hi>
+                  </l>
+                  <l>
+                     <hi>'Tis but some few, perfidious, wretched Men,</hi>
+                  </l>
+                  <l>
+                     <hi>(As you do term 'em) that have thus betray'd</hi>
+                  </l>
+                  <l>
+                     <hi>Your Sex's Virtue; and as dearly paid</hi>
+                  </l>
+                  <l>
+                     <hi>For ev'ry jot.—</hi> To which she nothing said,</l>
+                  <l>But look'd Severe; when quickly to her aid</l>
+                  <l>Some Ladies came, giving me t'understand,</l>
+                  <l>That she was <hi>Amoretta</hi>'s Sister; and</l>
+                  <l>How being by <hi>Infantada</hi> beguil'd,</l>
+                  <l>Thro' Grief had poyson'd both her self and Child.</l>
+                  <l>Whereat I told 'em All, and bid 'em tell</l>
+                  <l>Her ev'ry Circumstance that had befel</l>
+                  <pb n="31" facs="tcp:37299:19"/>
+                  <l>The wretched Duke. And then again I hy'd,</l>
+                  <l>T'enjoy, and feast my self with <hi>Almahide;</hi>
+                  </l>
+                  <l>Where I no sooner was arriv'd, and had</l>
+                  <l>Access into her Chamber, but she said,</l>
+                  <l>(After some chaste Imbraces) Ponce! <hi>Tell</hi>
+                  </l>
+                  <l>
+                     <hi>Me now, I do Conjure you, what befell</hi>
+                  </l>
+                  <l>
+                     <hi>The Duke and You? —</hi> At which, b'ing fearful lest</l>
+                  <l>A rash Account might discompose her brest,</l>
+                  <l>And tend to bad Effect, briskly reply'd,</l>
+                  <l>
+                     <hi>Nothing material, fair</hi> Almahide.</l>
+                  <l>And to divert her from so black a Scene,</l>
+                  <l>I made this Love-Digression intervene.</l>
+               </lg>
+            </div>
+            <div type="part">
+               <lg>
+                  <l>MAdam,! <hi>I must not</hi> tell you, that you are</l>
+                  <l>(Like Flatterers) than <hi>Cynthia</hi> far more fair;</l>
+                  <l>But I must tell you, Madam, what is true,</l>
+                  <l>I ne'er saw Beauty 'fore I gaz'd on you.</l>
+               </lg>
+               <lg>
+                  <l>I <hi>cannot</hi> say, That from your rowling Eyes</l>
+                  <l>Two scorching, am'rous Flames like Lightning flyes:</l>
+                  <l>But I may truly say, That they inhance</l>
+                  <l>Magick enough t'inslave with one Half-Glance.</l>
+               </lg>
+               <lg>
+                  <l>I <hi>dare not</hi> tell you, that your Cheeks so Fair,</l>
+                  <l>Have Smiles enough an Angel to insnare:</l>
+                  <l>But I dare tell you, That they seem to be</l>
+                  <l>Two Rosey beds, each side an Iv'ry Tree.</l>
+               </lg>
+               <lg>
+                  <l>I <hi>will not</hi> say, Your Lips, Vermilion dye!</l>
+                  <l>For then, upon my Honour, I should lye:</l>
+                  <l>But this I'll say, They're Roses 'round a Well,</l>
+                  <l>Which do invite my Soul to Sip and Smell.</l>
+               </lg>
+               <lg>
+                  <l>I <hi>ought</hi> not for to tell you, That your Brests</l>
+                  <l>Are <hi>Altars,</hi> on the which Two <hi>Robins</hi> nests:</l>
+                  <l>But this I ought to tell you, as my Duty,</l>
+                  <l>They are the tend'rest Banks of all your Beauty.</l>
+               </lg>
+               <lg>
+                  <l>I <hi>shall not</hi> farther in your Garden pry,</l>
+                  <l>For fear I fall into an Extasie:</l>
+                  <l>But, <hi>Madam,</hi> I shall guess you are Compleat</l>
+                  <l>From your <hi>Corona,</hi> to your very Feet.</l>
+               </lg>
+               <lg>
+                  <pb n="32" facs="tcp:37299:20"/>
+                  <l>But yet, half-pleas'd, she forc'd me to Obey,</l>
+                  <l>And tell so much as made her Swoon away,</l>
+                  <l>When in my Arms I often Kiss'd her, till</l>
+                  <l>Some Ladies came, and forc'd me, 'gainst my Will,</l>
+                  <l>To leave the Chamber, whilst, with Cordials, they</l>
+                  <l>Retriev'd her Sense, as on a Coach she lay.</l>
+                  <l>When being by my self admitted in,</l>
+                  <l>And found her Slumbring, thus I did begin —</l>
+               </lg>
+            </div>
+            <div type="part">
+               <lg>
+                  <l>SLeep, <hi>Alm'hide,</hi> Sleep, until thy bliss<g ref="char:EOLhyphen"/>ful</l>
+                  <l>Lover robs thee of a Kiss</l>
+                  <l>Whilst he with Steps, observ'd by Care,</l>
+                  <l>Approaches gladly to thy Chair:</l>
+                  <l>
+                     <hi>Venus,</hi> the Feathe<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>s from thy Doves</l>
+                  <l>Pull, and bestrow them like to Groves;</l>
+                  <l>That walking, I no Noise may make,</l>
+                  <l>For fear lest <hi>Almahide</hi> awake.</l>
+                  <l>Inspire her glowing Chee<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>s with heat,</l>
+                  <l>That <hi>Cupid</hi> may's Alarumn beat;</l>
+                  <l>And when the Ardor does begin,</l>
+                  <l>Let it not terminate in Sin;</l>
+                  <l>But Chast and Holy let all be,</l>
+                  <l>Devoted to the Shrine of thee.</l>
+               </lg>
+               <lg>
+                  <l>Lo! now I come, my Dear be still,</l>
+                  <l>For I'll do nought against thy Will:</l>
+                  <l>I'll touch thy Ruby Lips; and Vie</l>
+                  <l>The motions of each Starry Eye;</l>
+                  <l>Observe, i<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> they be Sealed fast;</l>
+                  <l>If so, then let our Ardor last</l>
+                  <l>With equal glowing Heat; 'till she</l>
+                  <l>Wakes, says Enough, thro' Modesty.</l>
+               </lg>
+               <lg>
+                  <l>And then I kiss'd her Sug'red Lips, till <hi>Chance,</hi>
+                  </l>
+                  <l>By Startling her, rous'd me out of my Trance.</l>
+               </lg>
+            </div>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:37299:20"/>
+         </div>
+      </body>
+   </text>
+</TEI>
